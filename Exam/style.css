@@ -1,0 +1,190 @@
+
+
+.brand-title
+{
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Poppins', Helvetica, arial, sans-serif;
+}
+ul li a
+{
+    font-weight: 600;
+    color: #fff !important;
+    transition: all .3s;
+    padding: 24px 25px;
+}
+ul li:hover a
+{
+    color: red !important;
+}
+.navbar
+{
+    background: #333 !important;
+}
+.nav-link-mine
+{
+color: #ec3237 !important;
+}
+.home
+{
+    background-image: url(images/cover.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 650px;
+}
+.overlay
+{
+    background-color: rgba(236, 51, 55, 0.7);
+    height: 100%;
+}
+.modify h2
+{
+    font-size: 50px
+}
+.modify p
+{
+    color: #fff;
+    font-size: 20px;
+}
+.content-1
+{
+    position: absolute;
+    top: 40%
+}
+.btn-mine
+{
+    border: solid #fff 3px !important;
+    background: none !important;
+    transition: all .4s;
+}
+.btn-mine:hover{
+    background: #fff !important;
+    color: red !important;
+}
+p {
+    font-family: 'Poppins', Helvetica, arial, sans-serif;
+    color: #777;
+    font-weight: 300;
+    font-size: 18px;
+}
+.modify
+{
+    font-weight: 700;
+    color: #fff !important;
+}
+
+.btn-mine-2
+{
+    background: white;
+    color: #777;
+    border-radius: 0;
+    border: 1px solid #999999;
+    padding: 4px 8px ;
+    
+    
+}
+.btn-mine-2:hover 
+{
+    background: red;
+}
+
+
+.rght
+{
+    float: right !important;
+}
+
+.btn-3
+{
+    background: red !important;
+    color: #fff !important;
+    padding: 10px;
+    border-radius:0px !important;
+    transition: all 1s;
+    border: none;
+        
+}
+.btn-3:hover{
+    background: #c60a0a !important;
+}
+.services-wrap:hover h3
+{
+    color: red !important;
+}
+.services-wrap:hover i
+{
+    background: red;
+}
+
+
+.all-ground
+{
+    
+    background-image: url(images/project-counter.jpg);
+    position: relative;
+    height: 400px;
+}
+
+.empty
+{
+    color: white;
+    position: absolute;
+    top: 120px;
+    width: 90%;
+    height: 150px;
+
+    
+}
+.empty span , i
+{
+    font-weight: 600;
+    color: #ec3237;
+}
+.btns-4
+{
+    background: #fff !important;
+    color: black !important;
+    font-weight: 300 !important;
+    border-radius: 0 !important;
+    border: solid 1px #6d6c6c !important;
+    padding: 5px !important;
+}
+.btns-4:hover
+{
+    border: solid 1px red !important;
+    color: red !important;
+    background: #fff !important;
+}
+.all
+{
+        background-color: #ec3237 !important;
+    border: 0px !important;
+}
+.having-9 i
+{
+    color: #fff;
+    background: black;
+
+}
+
+.having-9:hover i
+{
+    background: red;
+}
+
+.befr-end
+{
+    background-image: url(images/client-testimonial.jpg);
+    height: 500px;
+    
+}
+footer
+{
+    border-top: solid 1px #333;
+    height: 40px;
+}
+footer a
+{
+    color:#dd2222;
+    text-decoration: none;
+}
